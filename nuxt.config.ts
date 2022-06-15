@@ -10,7 +10,7 @@ const config: Configuration = {
   srcDir: './src',
   head: {
     titleTemplate: '%s',
-    title: 'Mornin',
+    title: 'East Voice',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no' },
@@ -25,15 +25,15 @@ const config: Configuration = {
       }, {
         hid: 'apple-mobile-web-app-capable', name: 'apple-mobile-web-app-capable', content: 'yes'
       }, {
-        hid: 'application-name', name: 'application-name', content: 'Mornin'
+        hid: 'application-name', name: 'application-name', content: 'East Voice'
       }, {
-        hid: 'apple-application-name', name: 'apple-application-name', content: 'Mornin'
+        hid: 'apple-application-name', name: 'apple-application-name', content: 'East Voice'
       }, {
-        hid: 'apple-mobile-web-app-title', name: 'apple-mobile-web-app-title', content: 'Mornin'
+        hid: 'apple-mobile-web-app-title', name: 'apple-mobile-web-app-title', content: 'East Voice'
       }, {
-        hid: 'og:title', name: 'og:title', content: 'Mornin'
+        hid: 'og:title', name: 'og:title', content: 'East Voice'
       }, {
-        hid: 'og:site_name', name: 'og:site_name', content: 'Mornin'
+        hid: 'og:site_name', name: 'og:site_name', content: 'East Voice'
       }
     ],
     link: [
